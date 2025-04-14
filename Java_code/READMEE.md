@@ -34,7 +34,7 @@ This guide outlines the steps performed on an AWS EC2 instance to install Java 1
     ```
 * Clone the specified Git repository:
     ```bash
-    git clone [https://github.com/HouariZegai/Calculator.git](https://github.com/HouariZegai/Calculator.git)
+    git clone https://github.com/shashirajraja/Train-Ticket-Reservation-System.git
     ```
 
 **4. Build the Project with Maven:**
